@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T02:36:51Z" name="Bunnings Search and Results Feature" finished-at="2021-04-07T02:38:00Z" duration-ms="69621">
+    <groups>
+    </groups>
+    <test started-at="2021-04-07T02:36:51Z" name="Test Suite" finished-at="2021-04-07T02:38:00Z" duration-ms="69621">
+      <class name="com.bunnings.tests.WebUITests">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:36:51Z" name="initializeDriver" finished-at="2021-04-07T02:37:01Z" duration-ms="10607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="searchWithInputText()[pri:0, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:37:01Z" name="searchWithInputText" finished-at="2021-04-07T02:37:15Z" duration-ms="13747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInputText -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:37:15Z" name="closeDriver" finished-at="2021-04-07T02:37:15Z" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:37:15Z" name="initializeDriver" finished-at="2021-04-07T02:37:25Z" duration-ms="9830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="searchWithSpecialCharacters()[pri:1, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:37:25Z" name="searchWithSpecialCharacters" finished-at="2021-04-07T02:37:37Z" duration-ms="11878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithSpecialCharacters -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:37:37Z" name="closeDriver" finished-at="2021-04-07T02:37:42Z" duration-ms="4491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:37:42Z" name="initializeDriver" finished-at="2021-04-07T02:37:51Z" duration-ms="9736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="searchWithoutInputText()[pri:2, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:37:51Z" name="searchWithoutInputText" finished-at="2021-04-07T02:38:00Z" duration-ms="8743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithoutInputText -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.bunnings.tests.WebUITests@37f1104d]" started-at="2021-04-07T02:38:00Z" name="closeDriver" finished-at="2021-04-07T02:38:00Z" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.bunnings.tests.WebUITests -->
+    </test> <!-- Test Suite -->
+  </suite> <!-- Bunnings Search and Results Feature -->
+</testng-results>
